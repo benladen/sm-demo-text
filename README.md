@@ -6,7 +6,7 @@ Contains Pokemon names, item names, menu text, etc
 - a/0/3/3 - [french](https://raw.githubusercontent.com/vgmoose/sm-demo-text/master/gametext/french.txt)
 - a/0/3/4 - [italian](https://raw.githubusercontent.com/vgmoose/sm-demo-text/master/gametext/italian.txt)
 - a/0/3/5 - [german](https://raw.githubusercontent.com/vgmoose/sm-demo-text/master/gametext/german.txt)
-
+- a/0/3/8 - [simplechinese]
 
 ## Story texts
 Contains dialogue spoken in game
@@ -16,6 +16,7 @@ Contains dialogue spoken in game
 - a/0/4/4 - [italian](https://raw.githubusercontent.com/vgmoose/sm-demo-text/master/storytext/italian.txt)
 - a/0/4/5 - [german](https://raw.githubusercontent.com/vgmoose/sm-demo-text/master/storytext/german.txt)
 - a/0/4/6 - [spanish](https://raw.githubusercontent.com/vgmoose/sm-demo-text/master/storytext/spanish.txt)
+- a/0/4/8 - [simplechinese]
 
 ## Info
 See here: https://gbatemp.net/threads/pokemon-sun-and-moon-garc-files.445401/
